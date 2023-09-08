@@ -1,24 +1,29 @@
 # EJERCICIO 1
 ## Añadir el fichero en el staying area
-![Captura de pantalla](img/image.png)
+![](img/image.png)
 
 ## Primer snapshot (commit)
-![El life status del fichero es commited](/img/image-1.png)
+![](/img/image-1.png)
+### El life status del fichero es commited
 
 ## Git push
-![Lo que ocurre es que no sabe donde hay que hacer el push.](/img/image-2.png)
+![](/img/image-2.png)
+### Lo que ocurre es que no sabe donde hay que hacer el push.
  
 ## Git remote -v 
-![El git remote -v muestra la destinacion del git add por eso no aparece nada, por que no hay destinación, aun.](/img/image-3.png)
+![](/img/image-3.png)
+### El git remote -v muestra la destinacion del git add por eso no aparece nada, por que no hay destinación, aun.
 
 ## Crear un repositorio remoto 
-![En GITHUB](/img/image-4.png)
+![](/img/image-4.png)
+### En GITHUB
 
 ## Asignar al repositorio remoto
 ![](/img/image-5.png)
 
 ## Git remote -v 
-![Ahora aparece la destiacion del git push](/img/image-6.png)
+![](/img/image-6.png)
+### Ahora aparece la destiacion del git push
 
 ## Git commit 
 ![Alt text](/img/image-7.png)
