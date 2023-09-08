@@ -4,7 +4,7 @@
 
 ## Primer snapshot (commit)
 ![](/img/image-1.png)
-### El life status del fichero es commited
+### El life status del fichero es unmodified/commited (he realizado un commit antes)
 
 ## Git push
 ![](/img/image-2.png)
