@@ -1,5 +1,5 @@
 # EJERCICIO 1
-## Añadir el fichero en el staying area
+## Añadir el fichero en el staging area
 ![](img/image.png)
 
 ## Primer snapshot (commit)
